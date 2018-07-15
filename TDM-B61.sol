@@ -12,6 +12,7 @@ import './TDM-B61-Convertor.sol' ;
 contract logging {
    event Transfer(address _server , address _to, uint256 _value);
    event Approval(address indexed _owner, address indexed _spender, uint _value);
+   event InsertBalances(address _StructToken , address _whoAuditor, uint256 _value);
 } 
 
 contract TDMB61 is  logging , exchange_converter { 
