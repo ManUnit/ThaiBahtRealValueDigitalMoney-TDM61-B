@@ -11,8 +11,8 @@ before if not the transfer function  going to prevent transactions of them
 ![Ananda Screenshot](https://i.imgur.com/q55EKyG.jpg)
 smartcontract can be promote  to be Digital Banking with
 and I also added token destroy function when exchange tokens to banknotes I wrote very smoot flow 
-isn't complex but very strong and secure as well I was tested on Ropsten test network its working by 
-contract ID 0xdc636371b34b3ed8820a97b8ec86e4c5936e527e
+isn't complex but very strong and secure as well I was tested on Ropsten test network its working deployed 
+in contract ID 0xdc636371b34b3ed8820a97b8ec86e4c5936e527e
 
 ![Ananda Screenshot](https://i.imgur.com/BYExPoP.jpg )
 request full function of Samrt contract hs1gab@gmail.com
