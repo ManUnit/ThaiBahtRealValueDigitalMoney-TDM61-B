@@ -8,6 +8,11 @@ be 0 value , The governor of Thai Nation Bank and Prime Minister of finance of T
 have to approve to relase issuer officer and money auditor change bill money to digital coin
 and also added control function sender and receiver have to registored there address to user list 
 before if not the transfer function  going to prevent transactions of them 
+![Ananda Screenshot](https://i.imgur.com/q55EKyG.jpg)
+this function can be promote smartcontract to be Digital Banking with
+and I also added token destroy function when exchange tokens to banknotes I wrote very smoot flow 
+isn't complex but very strong and secure as well I was tested on Ropsten test network its working 
+
 ![Ananda Screenshot](https://i.imgur.com/BYExPoP.jpg )
 request full function of Samrt contract hs1gab@gmail.com
 Anan Paenthongkham 
