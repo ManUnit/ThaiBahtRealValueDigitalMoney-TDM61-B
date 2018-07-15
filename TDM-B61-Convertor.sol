@@ -67,6 +67,7 @@ contract exchange_converter is registor {
         totalSupply = totalSupply + createTokens[_createToken].balance ; 
         createTokens[_createToken].auditorAddress = msg.sender ;
         totalProofTokens = totalProofTokens + 1 ; 
+        totalSupply = totalSupply +  createTokens[_createToken].balance  ; 
         return ( "Audited OK" ) ; 
     }else{
         createTokens[_createToken].auditor_message =  _message ; 
