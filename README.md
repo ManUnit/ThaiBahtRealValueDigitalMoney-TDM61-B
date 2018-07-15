@@ -9,5 +9,6 @@ have to approve to relase issuer officer and money auditor change bill money to 
 and also added control function sender and receiver have to registored there address to user list 
 before if not the transfer function  going to prevent transactions of them 
 
+request full function of Samrt contract hs1gab@gmail.com
 Anan Paenthongkham 
 15/07/2018     
