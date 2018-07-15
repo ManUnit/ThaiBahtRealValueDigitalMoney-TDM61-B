@@ -1,7 +1,7 @@
 # ThaiBathRealValueDigitalMoney
 
 Purpose TDM61  Thai Baht Digital Money protocol version B61 2561 
-TDM61 isn't ICO but use same interface as ERC20 function but was modify 
+TDM61 isn't ICO but use same ABI interface as ERC20 function but was modify 
 right of functions  balanceOf  appove and many  added more function 
 such as Digital money auditor , money issuer after deployed balances going to
 be 0 value , The governor of Thai Nation Bank and Prime Minister of finance of Thai 
