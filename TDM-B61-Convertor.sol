@@ -43,7 +43,7 @@ contract exchange_converter is registor {
         createTokens[totalRequestTokens].requestedCoin = true  ; 
         createTokens[totalRequestTokens].issuerAddress = msg.sender ; 
         createTokens[totalRequestTokens].issuer_message = _message ; 
-        totalRequestTokens = totalRequestTokens + 1 ; 
+        totalRequestTokens += 1 ; 
         return ( "Send  Auditor to confirm " ) ;
     }else {
         createTokens[totalRequestTokens].balance = 0  ;
