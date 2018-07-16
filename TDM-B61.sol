@@ -4,7 +4,8 @@ pragma solidity ^0.4.24;
 @ Author : Anan Paenthongkham
 @ Copy right Anan Paenthongkham
 @Main funcion
-@improved ERC-20 stand token to be TDM61 B version 2561
+@improved ERC-20 standart token to be TDM61 B version 2561
+@ added balanceOf only owner user
 */
 
 import './TDM-B61-Convertor.sol' ; 
