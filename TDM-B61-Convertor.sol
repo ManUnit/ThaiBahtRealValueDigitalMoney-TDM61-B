@@ -4,7 +4,7 @@ pragma solidity ^0.4.24;
 @ TDM61 B version 2561 Thai Bath real value 
 @ Author : Anan Paenthongkham
 @copy right 2018  Anan Paenthongkham
-@ Coin Exchange  funcions
+@ Coin Exchange  functions
 @improved ERC-20 stand token to be TDM61 B version 2561
 */
 
