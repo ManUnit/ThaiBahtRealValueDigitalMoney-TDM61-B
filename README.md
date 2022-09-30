@@ -1,4 +1,4 @@
-# ThaiBathRealValueDigitalMoney
+# ThaiBahtRealValueDigitalMoney
 
 Purpose TDM61  Thai Baht Digital Money protocol version B61 2561 
 TDM61 isn't ICO but use same ABI interface as ERC20  but I was modify 
